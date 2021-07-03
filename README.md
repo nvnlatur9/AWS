@@ -1,2 +1,2 @@
-# AWS
-Contains the learning journey of AWS and it's services.
+# AZURE
+Contains the learning journey of AZURE and it's services.
